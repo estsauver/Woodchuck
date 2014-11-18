@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode61
+xcode_project: Woodchuck/Woodchuck.xcodeproj # path to your xcodeproj folder
+xcode_scheme: Woodchuck
+xcode_sdk: iphonesimulator8.1
